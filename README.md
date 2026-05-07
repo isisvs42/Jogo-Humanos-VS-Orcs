@@ -1,6 +1,6 @@
 # ⚔️ Battle Humans vs ORCs
 
-Projeto desenvolvido em C++ para a disciplina de Linguagem de Programação II da UFSC Araranguá.
+Projeto desenvolvido em C++ para a disciplina de Linguagem de Programação II da UFSC.
 
 ## 📖 Sobre o Projeto
 
