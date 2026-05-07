@@ -50,6 +50,22 @@ void imprimir_exercito(vector<Player> &raca, string nomeRaca){
     }
 }
 
+void batalha_1v1(Player &individuo, Player &oponente, vector<Player> &time_oponente, string FirstRace, string SecondRace, size_t indice)
+{
+    if(individuo.Atacar(oponente) == true)
+    {
+        cout << "O " << FirstRace << " " <<  individuo.GetNome() << " atacou o " << SecondRace << " " << oponente.GetNome();
+        if(oponente.GetVida() <= 0){
+            cout << " e o matou!" << endl;
+            time_oponente.erase(time_oponente.begin()+indice);
+            return;
+        }
+    }
+    else cout << "O " << FirstRace << " " << individuo.GetNome() << " falhou no ataque ao " << SecondRace << " " << oponente.GetNome() << endl;
+    cin.ignore();
+}
+
+
 string batalhar(vector<Player> &Humanos, vector<Player> &Orcs) {
     size_t TotalHumanosInicial = Humanos.size();
     bool flag_rei = true;
@@ -83,30 +99,16 @@ string batalhar(vector<Player> &Humanos, vector<Player> &Orcs) {
 
         humano.AuraReal(orc);
 
-        if(humano.Atacar(orc) == true)
-        {
-            cout << "O humano " << humano.GetNome() << " atacou o orc " << orc.GetNome();
-            if(orc.GetVida() <= 0){
-                cout << " e o matou!" << endl;
-                Orcs.erase(Orcs.begin()+j);
-                continue;
-            }
+        //Define quem ataca primeiro
+        if(rand()%2){
+            batalha_1v1(humano, orc, Orcs, "humano", "orc", j);
+            batalha_1v1(orc, humano, Humanos, "orc", "humano", i);
         }
-        else cout << "O humano " << humano.GetNome() << " falhou no ataque ao orc " << orc.GetNome() << endl;
-        cin.ignore();
 
-        if(orc.Atacar(humano) == true)
-        {
-            cout << "O orc " <<  orc.GetNome() << " atacou o humano " << humano.GetNome();
-            if(humano.GetVida() <= 0){
-                cout << " e o matou!" << endl;
-                Humanos.erase(Humanos.begin()+i);
-                continue;
-            }
+        else{
+            batalha_1v1(orc, humano, Humanos, "orc", "humano", i);
+            batalha_1v1(humano, orc, Orcs, "humano", "orc", j);
         }
-        else cout << "O orc " << orc.GetNome() << " falhou no ataque ao humano " << humano.GetNome() << endl;
-        cin.ignore();
-
 
         //cout << "   " << Humanos.size() << endl;
     }
