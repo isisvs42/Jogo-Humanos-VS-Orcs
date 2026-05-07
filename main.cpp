@@ -1,12 +1,13 @@
-//#include "player.hpp"
-#include "functions.hpp"
-#include <cstdlib>   // rand(), srand()
-#include <ctime>     // time()
-
 /*
 Ísis Valois Sampaio 25203994
 Guilherme Paiva Peres 25203350
 */
+
+
+#include "include/functions.hpp"
+#include <cstdlib>   // rand(), srand()
+#include <ctime>     // time()
+
 int main()
 {
     size_t n_orcs = 0;
@@ -28,8 +29,8 @@ int main()
 
     vector<string> nomesHumanos;
     vector<string> nomesOrcs;
-    ler_nomes("humanos.txt", nomesHumanos, n_humanos);
-    ler_nomes("orcs.txt", nomesOrcs, n_orcs);
+    ler_nomes("./DataBase/humanos.txt", nomesHumanos, n_humanos);
+    ler_nomes("./DataBase/orcs.txt", nomesOrcs, n_orcs);
 
     //gerador de numeros randomicos
     srand(time(NULL));

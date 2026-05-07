@@ -1,4 +1,4 @@
-#include "functions.hpp"
+#include "../include/functions.hpp"
 
 void ler_nomes(string nomeArquivo, vector<string> &vetorNomes, size_t tamanhoExercito){
     ifstream arquivo(nomeArquivo);  // abre o arquivo
