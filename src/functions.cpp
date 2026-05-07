@@ -118,7 +118,7 @@ string batalhar(vector<Player> &Humanos, vector<Player> &Orcs) {
 // Quando sobra 30% do exército humano, os humanos sentem uma motivação final e quase religiosa, 
 // que os fazem tirar 30% da vida de cada orc: eles se juntam para um ataque coletivo
 void a_ultima_esperanca(vector<Player> &Orcs){
-    for(int i = 0; i < Orcs.size(); i++)
+    for(size_t i = 0; i < Orcs.size(); i++)
         Orcs.at(i).SetVida(Orcs.at(i).GetVida() * 0.7);
 
     // Códigos ANSI
