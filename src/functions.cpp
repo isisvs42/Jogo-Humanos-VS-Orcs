@@ -50,7 +50,7 @@ void imprimir_exercito(vector<Player> &raca, string nomeRaca){
     }
 }
 
-void batalha_1v1(Player &individuo, Player &oponente, vector<Player> &time_oponente, string FirstRace, string SecondRace, size_t indice)
+bool batalha_1v1(Player &individuo, Player &oponente, vector<Player> &time_oponente, string FirstRace, string SecondRace, size_t indice)
 {
     if(individuo.Atacar(oponente) == true)
     {
@@ -58,11 +58,12 @@ void batalha_1v1(Player &individuo, Player &oponente, vector<Player> &time_opone
         if(oponente.GetVida() <= 0){
             cout << " e o matou!" << endl;
             time_oponente.erase(time_oponente.begin()+indice);
-            return;
+            return true;
         }
     }
     else cout << "O " << FirstRace << " " << individuo.GetNome() << " falhou no ataque ao " << SecondRace << " " << oponente.GetNome() << endl;
     cin.ignore();
+    return false;
 }
 
 
@@ -101,12 +102,12 @@ string batalhar(vector<Player> &Humanos, vector<Player> &Orcs) {
 
         //Define quem ataca primeiro
         if(rand()%2){
-            batalha_1v1(humano, orc, Orcs, "humano", "orc", j);
+            if(batalha_1v1(humano, orc, Orcs, "humano", "orc", j)) continue;
             batalha_1v1(orc, humano, Humanos, "orc", "humano", i);
         }
 
         else{
-            batalha_1v1(orc, humano, Humanos, "orc", "humano", i);
+            if(batalha_1v1(orc, humano, Humanos, "orc", "humano", i)) continue;
             batalha_1v1(humano, orc, Orcs, "humano", "orc", j);
         }
 
