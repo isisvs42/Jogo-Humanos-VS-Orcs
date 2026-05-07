@@ -1,0 +1,500 @@
+Nagga Mud Lurker
+Zagog Fell Blade
+Moggrak Dark Crawler
+Nrakula Mud Crawler
+Mrazuka Fell Watcher
+Thrakgul of Mount Gundabad
+Duruz Doom Walker
+Murgaba Mud Crawler
+Grieg of Mount Gundabad
+Grubdur Eye Gouger
+Gorbug Mud Lurker
+Snagbag Battle Howler
+Durash Battle Howler
+Rakbug Flesh Render
+Zugduf Mud Crawler
+Bruzdur Crag Lurker
+Grulisha Heart Ripper
+Vrukbug Chaos Sower
+Rakbag of Nurn
+Kruzeka Night Stalker
+Shaolg Head Taker
+Dreghur Storm Caller
+Radmar Chaos Sower
+Mazaza Ruin Maker
+Krazawa Fang Bearer
+Krugaka Battle Howler
+Brakasha Death Bringer
+Krakgrat Crag Lurker
+Bruzgul Fell Watcher
+Uftug Doom Walker
+Nrakara Dark Crawler
+Grimgul of Isengard
+Skarzana Wrath Bringer
+Shakrak Shadow Herald
+Brakuza Corpse Gnawer
+Snamar of the Uruk-hai
+Grulula Skull Crusher
+Muzluk of Cirith Ungol
+Gruleka of the Misty Mountains
+Vruzuka Doom Walker
+Zugina Death Knell
+Naguba Corpse Eater
+Kruguza Crag Lurker
+Thrakshnakh Cave Stalker
+Radog Pit Dweller
+Skragaza of Mordor
+Grimga Chaos Sower
+Nagluk War Drummer
+Thrazoga of Moria
+Molbag of the Uruk-hai
+Gorgshak Storm Caller
+Brakaza Shadow Creeper
+Nrakasha Heart Ripper
+Krugawa of Isengard
+Ghozaza Ruin Maker
+Grakisha Bone Gnawer
+Snagog of Moria
+Grigrat Doom Walker
+Grimurz of the White Hand
+Krubdur Night Stalker
+Mauash of Nurn
+Nrakoka Storm Caller
+Maudush Pit Dweller
+Moloth Dark Crawler
+Zugbug War Drummer
+Durog Battle Howler
+Skagag of Nurn
+Grulisha Storm Caller
+Bruzog Night Stalker
+Morrak Flesh Render
+Dururz of the White Hand
+Uftub Chaos Sower
+Azog Corpse Gnawer
+Grimash Hate Bearer
+Nagona Cave Stalker
+Zagga of Nurn
+Bagshnakh Fell Watcher
+Vrakaama Dark Herald
+Krazula of the Misty Mountains
+Zugama Wrath Bringer
+Nrakula Corpse Gnawer
+Shrakaba of the Red Eye
+Ghozata Dark Crawler
+Muzbag of Nurn
+Brugana War Drummer
+Zagak Skull Crusher
+Gruliga of Mount Gundabad
+Morgina Battle Howler
+Shaza Death Bringer
+Lugag of the Uruk-hai
+Zugaza of the Uruk-hai
+Drogush of Mordor
+Nagona Ruin Maker
+Shrakika Battle Howler
+Skuldrag Battle Howler
+Urgawa of Gorgoroth
+Bagshak Eye Gouger
+Mazona Mud Lurker
+Bruzag Fell Watcher
+Shazuza Corpse Gnawer
+Azrok Black Blade
+Zuguka Death Knell
+Zagbug Death Bringer
+Skuluz of Gorgoroth
+Lagdur of Mordor
+Narshnakh of the Uruk-hai
+Skulag Chaos Sower
+Mazasha Heart Ripper
+Morgul Heart Ripper
+Grimvruk Wrath Bringer
+Vrakaula Blood Painter
+Shazaza of the White Hand
+Goroth Wrath Bringer
+Nagolg of Cirith Ungol
+Dreguka of Gorgoroth
+Shrakina Skull Crusher
+Snauk Dark Herald
+Brugaza Stone Eater
+Naghak Iron Fist
+Morgrak Corpse Eater
+Muzoth Chaos Sower
+Shrakava Doom Walker
+Grubeg Heart Ripper
+Vruzeka Flesh Render
+Gulgul Dark Herald
+Zagul Crag Lurker
+Uftug of the Red Eye
+Vrukuz of the Uruk-hai
+Mokura Dark Crawler
+Rakmog of the Uruk-hai
+Shaziga Cave Stalker
+Azbag Fell Blade
+Gorshnakh Black Blade
+Drogash of Cirith Ungol
+Maudrag of Cirith Ungol
+Muzgshak Shadow Creeper
+Nrakaba of the Misty Mountains
+Grakkrak of the Misty Mountains
+Urgora Wrath Bringer
+Vrakaakh Corpse Gnawer
+Maurok Mud Lurker
+Ghozaka Heart Ripper
+Rakrok Skull Crusher
+Vrukurz Night Stalker
+Azrok Eye Gouger
+Radduf Mud Crawler
+Krakbag Ruin Maker
+Krakeg Dark Herald
+Radhur of Cirith Ungol
+Bruzub Black Blade
+Nrakeka Dark Herald
+Krakuk Death Bringer
+Ghozana War Drummer
+Morgapa Blood Painter
+Drakava Mud Lurker
+Drogga of Cirith Ungol
+Maugrat Doom Walker
+Ughdush Head Taker
+Shaurz of Isengard
+Boluz of the White Hand
+Lugrak Black Blade
+Gruloka of Gorgoroth
+Luga Mud Lurker
+Gulush Night Stalker
+Nrakeka Cave Stalker
+Narog of Mount Gundabad
+Krakrok of Mount Gundabad
+Drakaxa Fang Bearer
+Bruzub Head Taker
+Durdush of Isengard
+Gulush Crag Lurker
+Vruzeka Iron Fist
+Dregoka War Drummer
+Azgash Cave Stalker
+Zagula Corpse Eater
+Narshnakh Doom Walker
+Grulaxa Heart Ripper
+Shaakh Doom Walker
+Urgawa Doom Walker
+Orkbug Fell Blade
+Thrakrok Fell Watcher
+Bagluk Death Knell
+Brakuka of Nurn
+Mogush Cave Stalker
+Grimash Eye Gouger
+Narag Battle Howler
+Skagdur Crag Lurker
+Mrazoka Head Taker
+Grimrok Corpse Gnawer
+Skaguz Fell Watcher
+Shrakaba of Mordor
+Moldush Crag Lurker
+Krugakh Blood Painter
+Skuldush Skull Crusher
+Morgoka Wrath Bringer
+Drakaxa Dark Crawler
+Grakhur of the Uruk-hai
+Urgula Fang Bearer
+Kruzana of Moria
+Mokata Dark Herald
+Murgakh Cave Stalker
+Grakora Blood Painter
+Shrakaza Ruin Keeper
+Krazava Ruin Keeper
+Moleg Mud Crawler
+Rakhaza of Mordor
+Shazaka Blood Painter
+Mazula Shadow Herald
+Moruk Bone Gnawer
+Shazika Dark Crawler
+Krakul Black Blade
+Shrakaxa of Isengard
+Griolg Heart Ripper
+Rakhawa Ash Tongue
+Drakana Blood Painter
+Skulakh Bone Gnawer
+Drakisha of the White Hand
+Ughkrak Corpse Gnawer
+Mogush Iron Fist
+Lagush Storm Caller
+Grakog Spine Breaker
+Kruguza of Nurn
+Bolkrak Fang Bearer
+Uftgrat Hate Bearer
+Grishnakh of the Uruk-hai
+Gulgrat Shadow Herald
+Grubeg Corpse Eater
+Gornak of Cirith Ungol
+Shaurz of Moria
+Gorggash Ruin Keeper
+Dregapa Head Taker
+Grimzag Mud Crawler
+Lagog of Gorgoroth
+Mrazula Bone Gnawer
+Drakuka Corpse Eater
+Krugaza Pit Dweller
+Krugona Corpse Gnawer
+Grubluk Blood Drinker
+Narula War Drummer
+Urgana Stone Eater
+Brakapa Fell Blade
+Grakava Blood Drinker
+Vrukduf Shadow Herald
+Skragura of the Misty Mountains
+Zugnak Stone Eater
+Shazisha Corpse Eater
+Skulduf Ash Tongue
+Thrakkrak Bone Gnawer
+Dreguba Cave Stalker
+Uftrok of Isengard
+Thrazula Battle Howler
+Naroka Corpse Gnawer
+Ghozaka Dark Herald
+Krazama of the Misty Mountains
+Morgash Cave Stalker
+Nagura of the Uruk-hai
+Zagama Corpse Eater
+Ghozaza of the Misty Mountains
+Durub Iron Fist
+Mokuza Fang Bearer
+Shazata Blood Drinker
+Narul Dark Herald
+Drogga of the White Hand
+Mokoka Chaos Sower
+Skragaxa Night Stalker
+Durrok Wrath Bringer
+Grishnakh Dark Crawler
+Nagog Blood Painter
+Grimdush War Drummer
+Skarzava Heart Ripper
+Vrakaisha Corpse Eater
+Shrakaza Doom Walker
+Skragaba Corpse Eater
+Mokoga Blood Drinker
+Shrakava of Mount Gundabad
+Gruloka Pit Dweller
+Mazaka of Nurn
+Lughak of Moria
+Molvruk Corpse Gnawer
+Murga of Isengard
+Griul Dark Crawler
+Muzgug Storm Caller
+Zagasha Hate Bearer
+Muzduf Fell Watcher
+Brakula Shadow Herald
+Krakug Fell Watcher
+Rakvruk Head Taker
+Muzgrat Bone Gnawer
+Krubog Night Stalker
+Zagasha Corpse Eater
+Grulona Death Knell
+Droghak Spine Breaker
+Shrakora Night Stalker
+Shrakika Ruin Maker
+Nagula of the White Hand
+Shagul Shadow Herald
+Nagula Death Bringer
+Nagaka Death Bringer
+Muzim of Mordor
+Skulvruk Black Blade
+Gorgash Cave Stalker
+Murgona of Mordor
+Orkhur Fang Bearer
+Ghozona Bone Gnawer
+Snagga Corpse Gnawer
+Drogash Fang Bearer
+Gulul Blood Painter
+Snaim of Gorgoroth
+Nagul Spine Breaker
+Morgiga Head Taker
+Baguk Night Stalker
+Shrakakh Bone Gnawer
+Skragara Wrath Bringer
+Urguba of Gorgoroth
+Snaakh of the Uruk-hai
+Dregrak Spine Breaker
+Shashak Hate Bearer
+Krazaza of Cirith Ungol
+Dreggrak Iron Fist
+Skulrok Crag Lurker
+Rakolg of Gorgoroth
+Vrukdush Spine Breaker
+Kruzoka Fell Watcher
+Skraga Death Knell
+Shazaka of Mount Gundabad
+Molhak Doom Walker
+Grimgash Storm Caller
+Vrukrak Eye Gouger
+Durshak Heart Ripper
+Morguba Mud Lurker
+Grulaza Corpse Eater
+Morbag Blood Drinker
+Rakush Night Stalker
+Grubdush War Drummer
+Grimag Dark Herald
+Krugaka Shadow Creeper
+Naruza Mud Crawler
+Snaul of the White Hand
+Krazula Stone Eater
+Ughul Shadow Herald
+Lugbag of Mordor
+Brugoka Ash Tongue
+Lugeg War Drummer
+Mokisha Dark Crawler
+Krakakh Crag Lurker
+Uftim Fang Bearer
+Narrok Heart Ripper
+Gorshak War Drummer
+Krugaka Fang Bearer
+Skagog Blood Painter
+Drakama Night Stalker
+Zagag of Isengard
+Zugawa Ruin Keeper
+Brugina Corpse Gnawer
+Kruzoga Fell Watcher
+Krugoka Mud Lurker
+Drakona Flesh Render
+Krazoga of Isengard
+Shaush of the Misty Mountains
+Vrukduf Corpse Eater
+Shazara Corpse Eater
+Nagdur Shadow Herald
+Krazoga of Mount Gundabad
+Nagasha of Nurn
+Ghuliga Wrath Bringer
+Grakhak Chaos Sower
+Vrakaina Corpse Gnawer
+Orkrak Fell Blade
+Ughakh Battle Howler
+Dregaba of Moria
+Snagoth Heart Ripper
+Gorgul Head Taker
+Bagag Corpse Eater
+Skragisha Spine Breaker
+Krakshnakh Ash Tongue
+Mrazura of the Misty Mountains
+Mrazina Heart Ripper
+Bagash Flesh Render
+Urguka Death Knell
+Durak of Mordor
+Molshnakh Dark Crawler
+Krugula Flesh Render
+Gulrok Storm Caller
+Droghak Heart Ripper
+Muzdur of Cirith Ungol
+Gulgash Ruin Maker
+Muzgshak Corpse Eater
+Shamar Storm Caller
+Lagzag Corpse Eater
+Skagul Heart Ripper
+Droguk Death Bringer
+Drogbag Dark Herald
+Durog Black Blade
+Morgara Fang Bearer
+Braka of Moria
+Skarzata Wrath Bringer
+Brugoga Cave Stalker
+Gruluba Doom Walker
+Grakdrag Fang Bearer
+Grimul Skull Crusher
+Narshak Blood Painter
+Krazata Bone Gnawer
+Kruga Head Taker
+Shazawa of Nurn
+Ghuluka of Gorgoroth
+Grakina Death Bringer
+Grubakh Dark Crawler
+Grulula of Mordor
+Rakurz Bone Gnawer
+Durhak Hate Bearer
+Krazaba Hate Bearer
+Grulaza of Mount Gundabad
+Nagoga Storm Caller
+Gorgdur Mud Lurker
+Kruzasha Black Blade
+Vrukolg of the Red Eye
+Drakasha of Cirith Ungol
+Drogakh Ash Tongue
+Thrakgul Fang Bearer
+Grakuba Mud Lurker
+Gridrag Bone Gnawer
+Muzguz of Nurn
+Dreguka Corpse Gnawer
+Orkhur Black Blade
+Vrukak Dark Crawler
+Lagluk Iron Fist
+Ughshak Shadow Herald
+Moggrat Doom Walker
+Drakawa Crag Lurker
+Ghozuza Fell Blade
+Zagnak of Isengard
+Nagim of Moria
+Krakshak Fang Bearer
+Mogog Night Stalker
+Gorakh of Mount Gundabad
+Mogrok of Gorgoroth
+Molrok Doom Walker
+Urgoga Storm Caller
+Zagaza Pit Dweller
+Bolrok Mud Crawler
+Zugava Death Bringer
+Nrakara of the Uruk-hai
+Mokaza Eye Gouger
+Krakmog of Cirith Ungol
+Zagora Shadow Creeper
+Muza of Isengard
+Ughoth Death Knell
+Vrakaisha Flesh Render
+Brugaba Eye Gouger
+Gorga Cave Stalker
+Nrakasha Blood Painter
+Thrazuka Corpse Gnawer
+Muzash of the Red Eye
+Vruzava Corpse Gnawer
+Mokisha Mud Lurker
+Skragula Pit Dweller
+Urguba Spine Breaker
+Mogdush Bone Gnawer
+Krazara Flesh Render
+Vrukuk Skull Crusher
+Dregasha Night Stalker
+Mokata Iron Fist
+Nagog of Moria
+Zagub of the Red Eye
+Vruka Ruin Maker
+Skarzeka Flesh Render
+Skragata Eye Gouger
+Mrazura Death Knell
+Ghuloga of the Uruk-hai
+Mokaza Shadow Herald
+Rakhora of the Uruk-hai
+Dregina Spine Breaker
+Krubkrak Bone Gnawer
+Nagata Mud Crawler
+Bruzgul Eye Gouger
+Krugika Flesh Render
+Shaluk of Mount Gundabad
+Gribug Spine Breaker
+Grulasha Dark Crawler
+Zagduf Ash Tongue
+Dregoga Heart Ripper
+Gorgim Eye Gouger
+Mauhak Mud Lurker
+Mogdur of Isengard
+Dregava Battle Howler
+Morluk Skull Crusher
+Dregoka Shadow Herald
+Moluz of the White Hand
+Krazula of Mordor
+Snagoth of Cirith Ungol
+Skulrok Dark Herald
+Ghulasha of the Red Eye
+Krazuza of the White Hand
+Uftim Heart Ripper
+Gorgash Mud Crawler
+Nrakiga Spine Breaker
+Nagapa Mud Lurker
+Nagvruk Night Stalker
+Vrukak Chaos Sower
+Bruzrok Ash Tongue
