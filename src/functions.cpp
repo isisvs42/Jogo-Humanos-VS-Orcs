@@ -34,7 +34,7 @@ void criar_exercito(vector<Player> &raca, const vector<string> &vetorNomes, bool
         {
             float vida = rand()% 101 + 200; // vida de 200 a 300
             float ataque = rand()%76 + 75; // ataque de 75 a 150
-            float defesa = rand()%76 + 5; // defesa de 5 a 80
+            float defesa = rand()%56 + 5; // defesa de 5 a 60
             Player novoPlayer(vetorNomes.at(i), vida, ataque, defesa, false);
 
             raca.push_back(novoPlayer);

@@ -21,7 +21,7 @@ A cada rodada, um humano e um orc são sorteados para se enfrentar. A ordem do a
 | Raça    | Vida      | Ataque    | Defesa  |
 |---------|-----------|-----------|---------|
 | Humano  | 100 – 200 | 100 – 150 | 1 – 75  |
-| Orc     | 200 – 300 | 75 – 150  | 5 – 80  |
+| Orc     | 200 – 300 | 75 – 150  | 5 – 60  |
 
 ### Regra de ataque
 
