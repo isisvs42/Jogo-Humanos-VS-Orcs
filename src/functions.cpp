@@ -132,7 +132,7 @@ void a_ultima_esperanca(vector<Player> &Orcs){
     cout << AMARELO;
     cout << "Como mártires que abraçam o fim, eles unem suas vozes em um cântico de guerra sagrado e " << endl;
     cout << "desferem um ataque coletivo abençoado, arrancando 30% da vida de cada orc." << endl;
-    cout << RESET;  // sempre resetar no final!
+    cout << RESET;  
 
     cin.ignore();
 }
